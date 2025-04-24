@@ -15,7 +15,7 @@ A modern, lightweight, and responsive image search application built with **HTML
 
 ## 📸 Preview
 
-![image search demo](https://th.bing.com/th/id/R.f1cceda3e065a295b6ee96073657696a?rik=FMzLxQjuXyseDw&pid=ImgRaw&r=0)
+![image search demo](imagesc.png)
 
 ---
 
